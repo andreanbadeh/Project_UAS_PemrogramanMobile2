@@ -13,3 +13,6 @@ UAS PEMROGRAMAN MOBILE 2
 
 # STORYBOARD
 
+![gambar](https://github.com/andreanbadeh/Project_UAS_PemrogramanMobile2/blob/ee2746873bdb87592d37dde2197b48da34310ad3/image/STORYBOARD.png)
+
+# MOCKUP
