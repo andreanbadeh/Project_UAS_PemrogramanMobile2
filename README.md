@@ -29,5 +29,4 @@ UAS PEMROGRAMAN MOBILE 2
 
 # UX (USER EXPERIENCE)
 
-![gambar]()
-
+![gambar](https://youtu.be/F-ketSxz9ro?si=JH6eetM1Y0v36cbl)
