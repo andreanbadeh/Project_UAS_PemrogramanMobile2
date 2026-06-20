@@ -25,7 +25,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # UI (USER INTERFACE)
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Project_UAS_PemrogramanMobile2/blob/f155db16a5f2a8064bcd2f321597a368c0f760c1/image/Screenshot%20From%202026-06-20%2016-22-18.png)
 
 # UX (USER EXPERIENCE)
 
