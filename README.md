@@ -13,7 +13,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # GANTT
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Project_UAS_PemrogramanMobile2/blob/3a82d19d84e08e786dd473883a1e8aed84d00341/image/Screenshot%20From%202026-06-20%2016-33-18.png)
 
 # STORYBOARD
 
