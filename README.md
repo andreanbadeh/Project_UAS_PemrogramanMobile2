@@ -16,3 +16,5 @@ UAS PEMROGRAMAN MOBILE 2
 ![gambar](https://github.com/andreanbadeh/Project_UAS_PemrogramanMobile2/blob/ee2746873bdb87592d37dde2197b48da34310ad3/image/STORYBOARD.png)
 
 # MOCKUP
+
+![gambar](https://github.com/andreanbadeh/Project_UAS_PemrogramanMobile2/blob/5c4be2c250480d85c82788c7d3fff0e050eb6445/image/mockup.png)
